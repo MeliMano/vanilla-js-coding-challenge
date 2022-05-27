@@ -5,4 +5,5 @@ Just put in the work and you will get better."
 
 * 🥁 Drum kit.
 * ⏰ CSS + JS Clock.
-* 🏞 Playing with CSS variables and JS.
+* 🎨 with CSS variables and JS.
+* 🏞 Flex Panel Gallery
